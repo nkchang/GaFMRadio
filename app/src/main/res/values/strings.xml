@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Google Assistant FMRadio</string>
+    <string name="action_settings">Settings</string>
+<!--  <string name="action_deeplink1">Deep link#1</string> -->
+    <string name="deeplink1">Deep link1</string>
+    <string name="helloworld">Deep link Google Assistant sample, include deeplink for application content and Android App link </string>
+</resources>
