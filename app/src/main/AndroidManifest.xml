@@ -18,6 +18,7 @@
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+
             <intent-filter android:autoVerify="true">
                 <action android:name="android.intent.action.VIEW" />
 
@@ -26,8 +27,8 @@
 
                 <data
                     android:scheme="http"
-                    android:host="nkchang.github.io"
-                    android:pathPattern="/deeplink" />
+                    android:host="absonant-confidence.000webhostapp.com"
+                    android:path="/deeplink" />
             </intent-filter>
         </activity>
     </application>
